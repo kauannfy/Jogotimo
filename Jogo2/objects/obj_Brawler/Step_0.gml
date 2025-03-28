@@ -22,7 +22,7 @@ if not mouse_check_button(mb_left)
 		pulos -=1
 		velv = pular
 	}
-
+////penis
 	if keyboard_check(ord("D"))
 	{
 		estado = "correno"
